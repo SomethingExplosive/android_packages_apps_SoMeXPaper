@@ -1,5 +1,7 @@
 #
 # Copyright (C) 2008 The Android Open Source Project
+# Copyright (C) 2011-2013 The CyanogenMod Project
+# Copyright (C) 2013 The SomethingExplosive Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,6 +23,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := CMWallpapers
+LOCAL_PACKAGE_NAME := SoMeXPaper
 
 include $(BUILD_PACKAGE)

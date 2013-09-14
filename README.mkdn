@@ -1,0 +1,6 @@
+SomethingExplosive
+==================
+
+This is the Wallpaper app for SoMeX, derived from [CMWallpapers](https://github.com/CyanogenMod/android_packages_apps_CMWallpapers).
+
+I'll be adding more wallpapers here as they come.
