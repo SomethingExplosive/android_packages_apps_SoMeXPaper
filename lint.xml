@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 /*
 **
@@ -19,7 +20,6 @@
 */
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <lint>
     <!-- Enable selected checks that are disabled by default. These should help devs fix minor mistakes.-->
     <issue id="FieldGetter" severity="warning" />
