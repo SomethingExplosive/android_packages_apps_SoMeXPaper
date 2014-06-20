@@ -1,4 +1,4 @@
-package com.something15525.SoMeXPaper;
+package com.somethingexplosive.SoMeXPaper;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
