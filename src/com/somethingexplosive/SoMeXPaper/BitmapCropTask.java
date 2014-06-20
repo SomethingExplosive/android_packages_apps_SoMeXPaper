@@ -1,4 +1,4 @@
-package com.cyanogenmod.wallpapers;
+package com.something15525.SoMeXPaper;
 
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
